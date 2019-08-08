@@ -4,7 +4,7 @@ module Paramable
       name.downcase.gsub(' ', '-')
     end
   end
-  
+
   module ClassMethods
   end
 end
